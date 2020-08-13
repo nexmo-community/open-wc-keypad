@@ -1,6 +1,6 @@
 # \<whatever-you-like-keypad>
 
-Example keypad Web Component used in a blog post that can be found at [https://www.nexmo.com/blog](https://www.nexmo.com/blog)
+Example keypad Web Component used in a blog post that can be found at [https://www.nexmo.com/blog/2020/08/13/creating-a-web-component-with-open-wc](https://www.nexmo.com/blog/2020/08/13/creating-a-web-component-with-open-wc)
 
 This Web Component follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
